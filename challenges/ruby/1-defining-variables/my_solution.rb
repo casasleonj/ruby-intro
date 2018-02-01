@@ -4,7 +4,7 @@
 
 first_name = "local-variable"
 last_name = "local-variable"
-age = 40
+age = local_variable.to_i
    
 # Pruebas NO LAS BORRES
 
