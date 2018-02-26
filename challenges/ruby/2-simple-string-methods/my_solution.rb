@@ -3,7 +3,7 @@
 # Tu solucion abajo:
 
 old_string = "Ruby is cool"
-new_string = "LOOC SI YBUR"
+new_string = old_string.upcase.reverse
 
 # Pruebas NO LAS BORRES
 
